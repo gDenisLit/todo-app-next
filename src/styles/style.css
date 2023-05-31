@@ -1,1 +1,6 @@
-@import './base/base.css'
+@import './base/base.css';
+@import './setup/layouts.css';
+
+/* @import './components'; */
+
+@import './pages/home-page.css'
