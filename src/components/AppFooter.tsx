@@ -1,5 +1,7 @@
 export default function AppFooter() {
     return (
-        <div>AppFooter</div>
+        <footer className="app-footer">
+            <h5>Todo App Made By Denis Lit</h5>
+        </footer>
     )
 }

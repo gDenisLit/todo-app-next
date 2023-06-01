@@ -1,0 +1,6 @@
+.todo-preview {
+    background-color: var(--clr1);
+    color: var(--clr3);
+
+    padding: 1rem;
+}

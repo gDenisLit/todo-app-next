@@ -1,6 +1,13 @@
 @import './base/base.css';
+@import './base/typography.css';
+
 @import './setup/layouts.css';
+@import './setup/variables.css';
 
-/* @import './components'; */
+@import './components/app-header.css';
+@import './components/app-footer.css';
+@import './components/todo-list.css';
+@import './components/todo-preview.css';
 
-@import './pages/home-page.css'
+@import './pages/home-page.css';
+@import './pages/todo-page.css'
